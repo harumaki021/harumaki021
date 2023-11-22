@@ -2,8 +2,7 @@
   - I speak Japanese
   - I'm a beginner at English
 - 👀 I’m interested in ...
-  - NeosVR
-    - LogiX
+  - Resonite
   - JavaScript
   - Shell
 - 🌱 I’m currently learning ...
